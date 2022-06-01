@@ -9,9 +9,7 @@ Usage: This program requires a valid Mapbox access token. Copy/download the file
 
 Roadmap: This exercise can be improved in the future by adding a feature where the map marker animation will stop at the location of each bus stop, show a pop-up description with the location, and then close and continue. More map markers can be added to better show movement since the bus travels a long distance over several roads.
 
-License: MIT License
-
-Copyright (c) 2022 Owais Uddin Ahmed
+License: MIT License (NOTE: significant parts of this code was taught and/or provided via the MIT xPRO course in Full Stack Development, and I do not claim ownership over it)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
